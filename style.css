@@ -1,0 +1,29 @@
+body{
+    background-color: thistle;
+}
+
+.menu{
+    background-color: rgba(0, 0, 0, 0.822);
+    display:flex;
+    justify-content:space-between;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color: white;
+}
+.grid{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color:rgb(241, 225, 241);
+    width: 310px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
